@@ -1,0 +1,16 @@
+{
+  "name": "chatrooms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "~1.2.7",
+    "socket.io": "~0.9.6"
+  }
+}
