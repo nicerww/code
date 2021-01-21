@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "mime": "~1.2.7",
-    "socket.io": "~0.9.6"
+    "socket.io": "~2.4.0"
   }
 }
